@@ -1,0 +1,23 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: lightseagreen;
+    display: inline;
+}
+#first {
+    background-color: mediumslateblue;
+}
+#second {
+    background-color: dodgerblue;
+}
+
+
+
+p{
+    background-color: black !important;
+}
+
+
+#first{
+    background-color: yellow
+}
